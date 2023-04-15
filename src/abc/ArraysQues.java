@@ -34,6 +34,8 @@ public class ArraysQues {
 	  System.out.println("Sum of first three maximum no.: "+(arr[arr.length-1]+arr[arr.length-2]+arr[arr.length-3]));
 	  System.out.println("Product of first three minimum no.: "+(arr[0]*arr[1]*arr[2]));
 	  System.out.println("Product of first three maximum no.: "+(arr[arr.length-1]*arr[arr.length-2]*arr[arr.length-3]));
+	  
+	 System.out.println("hiii this is first changes");
        }
 
 }
